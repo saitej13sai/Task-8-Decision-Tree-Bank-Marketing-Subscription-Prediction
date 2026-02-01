@@ -1,1 +1,2 @@
 # Task-8-Decision-Tree-Bank-Marketing-Subscription-Prediction
+This project uses a Decision Tree Classifier to predict bank customer subscription to deposits. The dataset was cleaned and categorical features encoded. Data was split into training and testing sets. The model was trained with limited depth to prevent overfitting. Performance was evaluated using accuracy and clearly interpreted through decision tree visualization and rules.
